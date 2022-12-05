@@ -4,7 +4,7 @@ echo "INITIALIZING DEPLOYEMENT"
 
 git add .
 git commit -m "Init"
-git push
+git push origin main
 
 echo "SUCCESSFULLY DEPLOYED"
 

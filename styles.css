@@ -14,5 +14,7 @@ nav{
     align-items: center;
     height: 50px;
     width: 100%;
-    
+}
+.nav-button{
+    margin-right: 15px;
 }

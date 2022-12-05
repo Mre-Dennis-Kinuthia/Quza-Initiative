@@ -16,5 +16,10 @@ nav{
     width: 100%;
 }
 .nav-button{
-    margin-right: 15px;
+    margin-right: 25px;
+    border-radius: 2.5px;
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    padding: 10px;
 }

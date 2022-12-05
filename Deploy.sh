@@ -8,8 +8,9 @@ git push
 
 echo "SUCCESSFULLY DEPLOYED"
 
-for ((i=3; i>0; i--)); do
+for ((i=5; i>0; i--)); do
    sleep 1 &
    wait
-   clear
 done
+
+clear

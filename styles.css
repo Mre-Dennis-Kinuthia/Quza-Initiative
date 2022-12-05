@@ -4,7 +4,7 @@ nav{
     background-color: #100f0d;
     position:absolute;
     top: 0;
-    left: 20%;
+    left: 0;
     z-index: 1;
     color: blue;
 }
